@@ -12,6 +12,7 @@
 - 🧩 Desenvolvimento de Software  
 - 🎨 Design de Interação  
 - ⚙️ Construção de aplicações completas (front + back)  
+- 🗄️ Otimização de banco de dados e fundamentos de engenharia de dados  
 
 ---
 
@@ -26,12 +27,8 @@
 ### ⚙️ Frameworks & Bibliotecas
 - Django  
 - React  
-- Spring Boot
+- Spring Boot  
 - Bootstrap  
-
-### 🌐 Web
-- HTML  
-- CSS  
 
 ### 🗄️ Banco de Dados
 - PostgreSQL  
@@ -46,6 +43,7 @@
 
 ### 🎨 Design
 - Figma  
+- Balsamiq  
 
 ---
 
@@ -59,11 +57,11 @@
 
 ## 📫 Contato
 
-- 📧 Email: jolokpereira@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/joloano-korzekwa-pereira-738095288
+- 📧 Email: jolokpereira@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/joloano-korzekwa-pereira-738095288  
 
 ---
 
 ## ⚡ Curiosidade
 
-- 🎯 Interesse em tecnologia, desenvolvimento web e experiência do usuário  
+- 🎯 Interesse em tecnologia, desenvolvimento web, experiência do usuário e banco de dados 
