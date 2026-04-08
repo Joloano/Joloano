@@ -1,16 +1,69 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Joloano
 
-<!--
-**Joloano/Joloano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas para Internet na UFSM  
+💻 Desenvolvedor em formação focado em desenvolvimento web  
+🚀 Buscando evoluir constantemente como desenvolvedor fullstack  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Atualmente estou trabalhando com:
+
+- 💻 Desenvolvimento Web  
+- 🧩 Desenvolvimento de Software  
+- 🎨 Design de Interação  
+- ⚙️ Construção de aplicações completas (front + back)  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+- Java  
+- Python  
+- PHP  
+- JavaScript  
+
+### ⚙️ Frameworks & Bibliotecas
+- Django  
+- React  
+- Spring Boot
+- Bootstrap  
+
+### 🌐 Web
+- HTML  
+- CSS  
+
+### 🗄️ Banco de Dados
+- PostgreSQL  
+- MySQL  
+- NoSQL  
+- MongoDB  
+
+### 🐳 Ferramentas & Ambientes
+- Docker  
+- Linux  
+- pgAdmin  
+
+### 🎨 Design
+- Figma  
+
+---
+
+## 📈 Objetivos
+
+- 🚀 Me tornar um desenvolvedor fullstack  
+- 📚 Aprimorar minhas habilidades em backend e frontend  
+- 🤝 Participar de projetos colaborativos  
+
+---
+
+## 📫 Contato
+
+- 📧 Email: jolokpereira@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/joloano-korzekwa-pereira-738095288
+
+---
+
+## ⚡ Curiosidade
+
+- 🎯 Interesse em tecnologia, desenvolvimento web e experiência do usuário  
